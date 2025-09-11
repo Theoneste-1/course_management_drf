@@ -1,4 +1,4 @@
 django-filter
 djangorestframework
 djangorestframework-simplejwt
-# gurnicorn=23.0.0
+gunicorn==20.1.0
