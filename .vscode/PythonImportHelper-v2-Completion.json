@@ -1,0 +1,634 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "CharField",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls ",
+        "description": "django.urls ",
+        "isExtraImport": true,
+        "detail": "django.urls ",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls ",
+        "description": "django.urls ",
+        "isExtraImport": true,
+        "detail": "django.urls ",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "SearchFilter",
+        "importPath": "rest_framework.filters",
+        "description": "rest_framework.filters",
+        "isExtraImport": true,
+        "detail": "rest_framework.filters",
+        "documentation": {}
+    },
+    {
+        "label": "OrderingFilter",
+        "importPath": "rest_framework.filters",
+        "description": "rest_framework.filters",
+        "isExtraImport": true,
+        "detail": "rest_framework.filters",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "courses.migrations.0001_initial",
+        "description": "courses.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Course',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "courses.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CoursesConfig",
+        "kind": 6,
+        "importPath": "courses.apps",
+        "description": "courses.apps",
+        "peekOfCode": "class CoursesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'courses'",
+        "detail": "courses.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Course(models.Model):\n    title = models.CharField(max_length=200, verbose_name=\"Course title\")\n    description = models.TextField(verbose_name=\"Course description\", blank=True)\n    instructor = models.ForeignKey(\n        User, on_delete=models.CASCADE, related_name=\"courses_taught\"\n    )\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    class Meta:\n        verbose_name = \"Course\"",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Module",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Module(models.Model):\n    course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name=\"modules\")\n    title = models.CharField(max_length=200, verbose_name=\"Module title\")\n    description = models.TextField(verbose_name=\"Module description\", blank=True)\n    order = models.IntegerField(default=0)\n    class Meta:\n        verbose_name = \"Module\"\n        verbose_name_plural = \"Modules\"\n        ordering = [\"order\"]\n    def __str__(self):",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Lesson",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Lesson(models.Model):\n    module = models.ForeignKey(\n        Module, on_delete=models.CASCADE, related_name=\"lessons\"\n    )\n    title = models.CharField(max_length=200, verbose_name=\"Lesson title\")\n    content = models.TextField(verbose_name=\"Lesson description\", blank=True)\n    order = models.IntegerField(default=0)\n    class Meta:\n        verbose_name = \"Lesson\"\n        verbose_name_plural = \"Lessons\"",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Enrollment",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Enrollment(models.Model):\n    student = models.ForeignKey(\n        User, on_delete=models.CASCADE, related_name=\"enrolled_courses\"\n    )\n    course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name=\"enrolled_students\")\n    enrolled_at = models.DateTimeField(auto_now_add=True)\n    class Meta:\n        verbose_name = \"Enrollment\"\n        verbose_name_plural = \"Enrollments\"\n        unique_together = [\"student\", \"course\"]",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "IsInstructorsOnly",
+        "kind": 6,
+        "importPath": "courses.permissions",
+        "description": "courses.permissions",
+        "peekOfCode": "class IsInstructorsOnly(permissions.BasePermission):\n    def has_permission(self, request, view):\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        return request.user.is_authenticated and request.user.groups.filter(name='Instructors').exists()\nclass  IsOwnEnrollment(permissions.BasePermission):\n    def has_object_permission(self, request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return obj.student == request.user\n        return obj.student == request.user",
+        "detail": "courses.permissions",
+        "documentation": {}
+    },
+    {
+        "label": {
+            "name": "",
+            "kind": 6,
+            "peekOfCode": "class  IsOwnEnrollment(permissions.BasePermission):\n    def has_object_permission(self, request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return obj.student == request.user\n        return obj.student == request.user"
+        },
+        "kind": 6,
+        "importPath": "courses.permissions",
+        "description": "courses.permissions",
+        "peekOfCode": "class  IsOwnEnrollment(permissions.BasePermission):\n    def has_object_permission(self, request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return obj.student == request.user\n        return obj.student == request.user",
+        "detail": "courses.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "LessonSerializer",
+        "kind": 6,
+        "importPath": "courses.serializers",
+        "description": "courses.serializers",
+        "peekOfCode": "class LessonSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Lesson\n        fields = [\"id\", \"title\", \"content\", \"order\"]\nclass ModuleSerializer(serializers.ModelSerializer):\n    lessons = LessonSerializer(many=True, read_only=True)\n    class Meta:\n        model = Module\n        fields = [\"id\", \"title\", \"order\", \"lessons\"]\nclass CourseSerializer(serializers.ModelSerializer):",
+        "detail": "courses.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleSerializer",
+        "kind": 6,
+        "importPath": "courses.serializers",
+        "description": "courses.serializers",
+        "peekOfCode": "class ModuleSerializer(serializers.ModelSerializer):\n    lessons = LessonSerializer(many=True, read_only=True)\n    class Meta:\n        model = Module\n        fields = [\"id\", \"title\", \"order\", \"lessons\"]\nclass CourseSerializer(serializers.ModelSerializer):\n    modules = ModuleSerializer(many=True, read_only=True)\n    instructor = serializers.SlugRelatedField(\n        queryset=User.objects.all(),\n        slug_field='username'  # Use username to match \"Theoneste\"",
+        "detail": "courses.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CourseSerializer",
+        "kind": 6,
+        "importPath": "courses.serializers",
+        "description": "courses.serializers",
+        "peekOfCode": "class CourseSerializer(serializers.ModelSerializer):\n    modules = ModuleSerializer(many=True, read_only=True)\n    instructor = serializers.SlugRelatedField(\n        queryset=User.objects.all(),\n        slug_field='username'  # Use username to match \"Theoneste\"\n    )\n    class Meta:\n        model = Course\n        fields = [\"id\", \"title\", \"description\",\"instructor\", \"created_at\", \"updated_at\", \"modules\"]\nclass EnrollmentSerializer(serializers.ModelSerializer):",
+        "detail": "courses.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EnrollmentSerializer",
+        "kind": 6,
+        "importPath": "courses.serializers",
+        "description": "courses.serializers",
+        "peekOfCode": "class EnrollmentSerializer(serializers.ModelSerializer):\n    student = serializers.StringRelatedField()\n    course = serializers.StringRelatedField()\n    class Meta:\n        model = Enrollment\n        fields = [\"id\", \"student\", \"course\", \"enrolled_at\"]\n        read_only_fields = [\"student\", \"enrolled_at\"]",
+        "detail": "courses.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "courses.urls",
+        "description": "courses.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r'courses', CourseViewSet, basename='courses')\nrouter.register(r'modules', ModuleViewSet, basename='module')\nrouter.register(r'lessons', LessonViewSet, basename='lesson')\nrouter.register(r'enrollments', EnrollmentViewSet, basename='enrollment')\nurlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "courses.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "courses.urls",
+        "description": "courses.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "courses.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CourseViewSet",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class CourseViewSet(viewsets.ModelViewSet):\n    queryset = Course.objects.all()\n    serializer_class = CourseSerializer\n    permission_classes = [IsAuthenticatedOrReadOnly, IsInstructorsOnly]\n    filter_backends = [DjangoFilterBackend, SearchFilter, OrderingFilter]\n    filterset_fields = ['instructor']\n    search_fields = ['title', 'description']\n    ordering_fields = ['title', 'description']\nclass ModuleViewSet(viewsets.ModelViewSet):\n    queryset = Module.objects.all() ",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleViewSet",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class ModuleViewSet(viewsets.ModelViewSet):\n    queryset = Module.objects.all() \n    serializer_class = ModuleSerializer\n    permission_classes = [IsAuthenticatedOrReadOnly, IsInstructorsOnly]\n    filter_backends = [DjangoFilterBackend, SearchFilter, OrderingFilter]\n    filterset_fields = ['course']\n    search_fields = ['title', 'description']\n    ordering_fields = ['title', 'description']\n# Lesson view sets\nclass LessonViewSet(viewsets.ModelViewSet):",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "LessonViewSet",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class LessonViewSet(viewsets.ModelViewSet):\n    queryset = Lesson.objects.all()\n    serializer_class = LessonSerializer\n    permission_classes = [IsAuthenticatedOrReadOnly, IsInstructorsOnly]\n    filter_backends = [DjangoFilterBackend, SearchFilter, OrderingFilter]\n    filterset_fields = ['module']\n    search_fields = ['title', 'description']\n    ordering_fields = ['title', 'description']\n# Enrollment view sets\nclass EnrollmentViewSet(viewsets.ModelViewSet):",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "EnrollmentViewSet",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class EnrollmentViewSet(viewsets.ModelViewSet):\n    queryset = Enrollment.objects.all()\n    serializer_class = EnrollmentSerializer\n    permission_classes = [IsAuthenticated, IsOwnEnrollment]\n    filter_backends = [DjangoFilterBackend, SearchFilter, OrderingFilter]\n    filterset_fields = ['student', 'course']\n    search_fields = ['student__username', 'course__title']\n    ordering_fields = ['enrolled_at']",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "course_manage.asgi",
+        "description": "course_manage.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "course_manage.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-##4vz_!$wvp6ls-7#(k0=cqv+p1j$^msb$d4f!d&9k@ypjn#in'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nAPPEND_SLASH = False\nALLOWED_HOSTS = ['127.0.0.1', 'localhost']\n# Application definition",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-##4vz_!$wvp6ls-7#(k0=cqv+p1j$^msb$d4f!d&9k@ypjn#in'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nAPPEND_SLASH = False\nALLOWED_HOSTS = ['127.0.0.1', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "DEBUG = True\nAPPEND_SLASH = False\nALLOWED_HOSTS = ['127.0.0.1', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "APPEND_SLASH",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "APPEND_SLASH = False\nALLOWED_HOSTS = ['127.0.0.1', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['127.0.0.1', 'localhost']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework_simplejwt',\n    'django_filters',",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ),\n    # 'DEFAULT_PERMISSION_CLASSES': (\n    #     'rest_framework.permissions.IsAuthenticated',\n    # ),\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 10,",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'course_manage.urls'",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "ROOT_URLCONF = 'course_manage.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'course_manage.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "course_manage.settings",
+        "description": "course_manage.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "course_manage.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "course_manage.urls",
+        "description": "course_manage.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),\n    path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n    path('', include('courses.urls')),\n]",
+        "detail": "course_manage.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "course_manage.wsgi",
+        "description": "course_manage.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "course_manage.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'course_manage.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

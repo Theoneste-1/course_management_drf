@@ -1,0 +1,3 @@
+django-filter
+django_restframework
+django_restframework_simplejwt
